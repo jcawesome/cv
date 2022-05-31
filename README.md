@@ -1,2 +1,2 @@
 # cv
-Curriculum Vitae for Jan Carlp
+Curriculum Vitae for Jan Carlo
