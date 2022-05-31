@@ -1,0 +1,47 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+body {
+  background-color: #FDF6EC;
+}
+
+hr {
+  border-style: none;
+  border-top: 8px dotted #DAB88B;
+  width: 10%;
+}
+
+h1 {
+  color: #B7CADB;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  color: #DAB88B;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  border-style: none;
+}
+
+.portrait {
+  height: 100%;
+  width: 40px;
+}
+
+.landscape {
+  height: 100%;
+  width: 80px;
+}
+
+.square {
+  height: 100%;
+  width: 100px;
+}
